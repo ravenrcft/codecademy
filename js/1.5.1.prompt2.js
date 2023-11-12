@@ -1,0 +1,1 @@
+var user = prompt("What the fuck are you?").toUpperCase();
